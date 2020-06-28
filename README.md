@@ -1,4 +1,4 @@
 # AzureCentosOsDiskExtend
-傻瓜式扩展Azure上的虚拟机CentosOs磁盘脚本
+傻瓜式扩展Azure上的虚拟机Centos系统磁盘脚本
 
-这个傻瓜式脚本只是为了扩系统盘的时候方便省事
+这个脚本只是为了扩系统盘的时候方便省事
